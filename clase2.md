@@ -2,7 +2,7 @@
 
 Construcciones con fosforos
 
-![](https://git.ostap.me/lindern/algebra/raw/commit/2cfd4e9a9d6c080b411c5404981ba43a267e988b/2021-03-16-08-25-48.png)
+![fig1](2021-03-16-08-25-48.png)
 
 Pregunta 1: Cuantos fosforos tiene la figura 15
 * Figura 1 = 3 Fosforos
