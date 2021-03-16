@@ -2,7 +2,7 @@
 
 Construcciones con fosforos
 
-![](./2021-03-16-08-25-48.png =500x)
+![](2021-03-16-08-25-48.png =500x)
 
 Pregunta 1: Cuantos fosforos tiene la figura 15
 * Figura 1 = 3 Fosforos
